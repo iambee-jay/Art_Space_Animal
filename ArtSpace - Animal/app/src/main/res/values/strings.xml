@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Animal Art Space</string>
+
+    // Image Descriptions (contentDescription)
+    <string name="butterfly_description">Butterfly</string>
+    <string name="hamster_description">Hamster</string>
+    <string name="turtle_description">Turtle</string>
+
+    // Image Titles
+    <string name="butterfly_title">A Butterfly\n</string>
+    <string name="hamster_title">A Hamster\n</string>
+    <string name="turtle_title">A Turtle\n</string>
+
+    // Image Authors
+    <string name="source">"Unsplash Images "</string>
+
+    // Image Release Years
+    <string name="twentytwentyfour">(2024)</string>
+
+    // Buttons
+    <string name="next_button">Next</string>
+    <string name='previous_button'>Previous</string>
+</resources>
